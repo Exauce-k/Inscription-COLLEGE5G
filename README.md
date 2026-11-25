@@ -1,5 +1,3 @@
-# Inscription-COLLEGE5G
-Site officiel du collège 5G
 <!DOCTYPE html>
 <html lang="fr">
 <head>
